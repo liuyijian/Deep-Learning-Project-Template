@@ -1,0 +1,4 @@
+torch==1.9.0
+pytorch-lightning==1.5.5
+vit-pytorch==0.24.3
+flask==2.0.2
